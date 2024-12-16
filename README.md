@@ -15,6 +15,7 @@
 * Game development
 * IA
 * Robotics
+* Virtual and interactive environments
 
 ## <p align="center"> Profiles: </p>
 
