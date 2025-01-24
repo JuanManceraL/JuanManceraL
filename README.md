@@ -7,7 +7,7 @@
 * SODVI's member 🎮 👾
 * SIAFI's member (in training) 🤖 🧠
 
-> Si quieres un cambio, primero rompe el multiverso. -Loki
+[> Si quieres un cambio, primero rompe el multiverso. -Loki]: #
 
 ## <p align="center"> Interest: </p>
 
