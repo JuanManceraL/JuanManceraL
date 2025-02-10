@@ -5,7 +5,7 @@
 
 * Computer Engineering 💻 🎓
 * SODVI's member 🎮 👾
-* SIAFI's member (in training) 🤖 🧠
+* SIAFI's member 🤖 🧠
 
 [> Si quieres un cambio, primero rompe el multiverso. -Loki]: #
 
